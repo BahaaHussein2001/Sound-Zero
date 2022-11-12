@@ -28,7 +28,7 @@
     background-color:  #fd7702;
     border-radius: 12pt;
     height: 54pt;
-    margin-top: 5pt;
+    margin-top: -2pt;
     margin-left: 15pt;
     margin-right: 15pt;
     font-family: 'Courier New', Courier, monospace;
@@ -57,9 +57,9 @@ ul{
 }
 
 #heading-text{
-    position: absolute;
-    top: 42pt;
-    left: 418pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
 }
 
 .text_background{
@@ -125,8 +125,8 @@ input[type=submit]:hover {
     padding: 10px;
     margin-top: 10px;
     margin-bottom:0px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 195px;
+    margin-right: 195px;
     color: #003366;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
