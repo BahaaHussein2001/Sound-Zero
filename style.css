@@ -208,4 +208,9 @@ input[type=submit]:hover {
     }
   }
   
-  
+  div.rg_embed_link
+  {
+    width: 90%;
+    margin: auto;
+    background-color: gray;
+  }
